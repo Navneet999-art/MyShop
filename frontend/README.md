@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+----------------REDUX---------------
+1.)Action-> what to do
+2.)Reducer-> How to do
+3.)Store-> object which holds the state of application
+4.)funcations associated with store->
+createstore()->use to create store
+dispatch(action)
+getstate()
+useDispatch
+useSelector-->Allows you to extract data from the Redux store state, using a selector function.
+
+-------------REACT --------------
+1)useNavigate hook
+Uses:
+Go to the previous or next pages
+Redirect user to a specific Url

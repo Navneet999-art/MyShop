@@ -1,0 +1,73 @@
+const products = [
+  {
+    name: "Macbook Pro",
+    image: "/images/laptop.jpg",
+    description:
+      "2021 Apple MacBook Pro (14-inch/35.97 cm, Apple M1 Pro chip with 8‑core CPU and 14‑core GPU, 16GB RAM, 512GB SSD) - Space Grey",
+    brand: "Apple",
+    category: "Electronics",
+    price: 1200,
+    countInStock: 10,
+    rating: 4.5,
+    numReviews: 12,
+  },
+  {
+    name: "Men's Shoe",
+    image: "/images/shoe.jpg",
+    description: "Men's Sports Shoes, Without lace Slip on Shoes",
+    brand: "Generic",
+    category: "Fashion",
+    price: 20,
+    countInStock: 7,
+    rating: 4.0,
+    numReviews: 8,
+  },
+  {
+    name: "Cannon EOS 80D DSLR Camera",
+    image: "/images/camera.jpg",
+    description:
+      "Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design",
+    brand: "Cannon",
+    category: "Electronics",
+    price: 929.99,
+    countInStock: 5,
+    rating: 3,
+    numReviews: 12,
+  },
+  {
+    name: "premium jeans for men",
+    image: "/images/jeans1.jpg",
+    description: "This is a Premium product by denim,This is a cotton jeans",
+    brand: "Denim",
+    category: "Fashion",
+    price: 22,
+    countInStock: 11,
+    rating: 5,
+    numReviews: 12,
+  },
+  {
+    name: "Logitech G-Series Gaming Mouse",
+    image: "/images/mouse.jpg",
+    description:
+      "Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience",
+    brand: "Logitech",
+    category: "Electronics",
+    price: 49.99,
+    countInStock: 7,
+    rating: 3.5,
+    numReviews: 20,
+  },
+  {
+    name: "Mens Round Neck Half Sleeve Cotton T-Shirt",
+    image: "/images/tshirt.jpg",
+    description: "SWISS CLUB Mens Round Neck Half Sleeve Cotton T-Shirt",
+    brand: "Generic",
+    category: "Fashion",
+    price: 15.6,
+    countInStock: 0,
+    rating: 4,
+    numReviews: 15,
+  },
+];
+
+export default products;

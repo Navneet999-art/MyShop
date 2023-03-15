@@ -1,0 +1,35 @@
+main {
+    min-height: 80vh;
+}
+
+h3 {
+    padding: 1rem 0;
+}
+
+.rating span {
+    margin: 0.1rem;
+}
+
+.yellowbtn {
+    background-color: #FFBF00;
+}
+
+.yellowtext {
+    color: #FFBF00;
+}
+
+.incdec {
+    display: flex;
+    justify-content: space-between;
+}
+
+.incdec div button {
+    border: none;
+}
+
+
+
+
+.login-form:focus {
+    box-shadow: none !important;
+}
